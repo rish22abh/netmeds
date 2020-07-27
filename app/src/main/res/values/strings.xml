@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Netmeds</string>
+    <string name="rs">\u20B9</string>
+    <string name="text_popular">Popular</string>
+    <string name="total_cost">Total: \u20B9</string>
+    <string name="text_checkout">Checkout</string>
+</resources>
